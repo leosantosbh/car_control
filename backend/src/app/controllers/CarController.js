@@ -1,11 +1,11 @@
 import "dotenv/config";
 
 import * as Yup from "yup";
-import { stringify } from "querystring";
 
 const fs = require("fs");
 
-const db_file = process.env.APP_PATH + "/database/car_control.json";
+const db_file =
+  "/media/leo-dev/projects/www/infosis_teste/backend/src/database/car_control.json";
 
 class CarController {
   async index(req, res) {
