@@ -4,19 +4,20 @@ Instalação:
 
   - clone do repositório
   
-  cd backend
-  yarn
+  - cd backend
+  - yarn install ou npm install
   
-  cd frontend
-  yarn
+  - cd frontend
+  - yarn install ou npm install
   
   
 Execução:
 
-  cd backend
-  yarn dev
+  - cd backend
+  - yarn install ou npm install
   
-  cd frontend
-  yarn start
+  - cd frontend
+  - yarn install ou npm install
   
-  acessar http://localhost:3000
+
+# acessar http://localhost:3000
