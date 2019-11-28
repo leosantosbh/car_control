@@ -20,4 +20,4 @@ Execução:
   - yarn install ou npm install
   
 
-# acessar http://localhost:3000
+- acessar http://localhost:3000
